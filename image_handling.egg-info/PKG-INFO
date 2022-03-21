@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: image-handling
+Version: 0.0.1
+Summary: Image Handling Package using Skimage
+Home-page: https://github.com/adeniasfilho/image-handling-package
+Author: Adenias
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+page_description
+
